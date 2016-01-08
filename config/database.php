@@ -2,18 +2,18 @@
 Database::$config = array(
     'development' => array(
         'host' => 'localhost',
-        'user' => 'mevkok_root',
-        'password' => '5PF78ny2awrwGdHm',
-        'database' => 'mevkoktests',
-        'encoding' => 'utf8_unicode_ci',
+        'user' => 'root',
+        'password' => 'qwerty',
+        'database' => 'MevkokTESTs',
+        'encoding' => 'utf8',
     ),
 
     'production' => array(
         'host' => 'localhost',
-        'user' => 'mevkok_root',
-        'password' => '5PF78ny2awrwGdHm',
-        'database' => 'mevkoktests',
-        'encoding' => 'utf8_unicode_ci',
+        'user' => 'root',
+        'password' => 'qwerty',
+        'database' => 'db',
+        'encoding' => 'utf8',
     ),
 );
 ?>
